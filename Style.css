@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 20px;
+    margin-top: 0px;
+    padding: 10px;
+    line-height: 0.5cm;
+}
+
+body {
+    background-color: white;
+}
+
+.section1 {
+    color: green;
+    border: 5px solid green;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.section2 {
+    color: red;
+    border: 5px solid red;
+    font-size: 14px;
+    font-style: italic;
+}
+
+.section3 {
+    color: blue;
+    border: 5px solid blue;
+    font-size: 14px;
+    font-style: italic;
+}
+
+ h1{
+    font-size: 18px;
+}
+
+
